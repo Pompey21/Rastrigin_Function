@@ -5,7 +5,7 @@ However, it only has one optimum (minimum) value at (x=0, y=0) but many local mi
 Bellow are two pictures of the function itself, in both a 2D and 3D format!
 
 Rastrigin 2D format:
-![alt text](https://github.com/Pompey21/Rastrigin_Function/blob/master/Rastrigin2D.jpg?raw=true)
+![alt text](https://github.com/Pompey21/Rastrigin_Function/blob/main/Rastrigin2D.jpg?raw=true)
 
 Rastrigin 3D format:
 ![alt text](https://github.com/Pompey21/Rastrigin_Function/blob/master/Rastrigin3D.png?raw=true)
