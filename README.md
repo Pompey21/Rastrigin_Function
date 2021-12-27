@@ -8,5 +8,5 @@ Rastrigin 2D format:
 ![alt text](https://github.com/Pompey21/Rastrigin_Function/blob/main/Rastrigin2D.jpg?raw=true)
 
 Rastrigin 3D format:
-![alt text](https://github.com/Pompey21/Rastrigin_Function/blob/master/Rastrigin3D.png?raw=true)
+![alt text](https://github.com/Pompey21/Rastrigin_Function/blob/main/Rastrigin3D.png?raw=true)
 
